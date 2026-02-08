@@ -17,6 +17,6 @@ export default defineConfig({
   },
   build: {
     outDir: 'dist',
-    base: '/klaudiush-todo/'
+    base: '/'
   }
 })
