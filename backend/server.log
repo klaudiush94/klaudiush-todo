@@ -1,0 +1,7 @@
+nohup: ignoring input
+
+> klaudiush-todo-backend@1.0.0 start
+> node server.js
+
+✅ Server running on http://localhost:5000
+📝 JWT_SECRET: your-secret-key-change-in-production
